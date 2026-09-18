@@ -143,6 +143,7 @@
                 "pages": [
                   "browser-proxy/browser/quick-start",
                   "browser-proxy/browser/browser-modes-profiles",
+                  "browser-proxy/browser/standard-browser-concurrency",
                   "browser-proxy/browser/best-practices",
                   "browser-proxy/browser/performance-maintenance",
                   "browser-proxy/browser/troubleshooting"
